@@ -1,0 +1,73 @@
+.attribution {
+     font-size: 11px; text-align: center;
+     }
+.attribution a {
+     color: hsl(228, 45%, 44%);
+     }
+     *{
+        font-family:sans-serif;
+     }
+     body{
+        background-color: hsl(47, 88%, 63%);
+     }
+
+.container{
+height:535px ;
+width: 350px;
+margin-left: auto;
+margin-right: auto;
+background-color: aliceblue;
+border: 2px solid black;
+border-radius: 15px;
+box-shadow: 8px 8px;
+
+}
+.svg{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+svg{
+    border-radius: 15px;
+}
+.learning{
+    background-color: hsl(47, 88%, 63%);
+    margin-left: 9px;
+    display: inline-block;
+    height: 40px;
+    width: 100px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 20px;
+}
+.publish{
+    margin-left: 9px;
+    font-size: 16px;
+}
+.html{
+    margin-left: 9px;
+}
+.para{
+    margin-left: 9px;
+}
+.image{
+    margin-left: 9px;
+    display: inline-block;
+}
+img{
+    height: 50px;
+}
+.greg{
+    display: inline-block;
+    font-weight: 800;
+    margin-left: 12px;
+}
+.both{
+    display: flex;
+    align-items: center;
+
+}
